@@ -1,5 +1,4 @@
-These xml files contain data on DHSC's ODA spend for the following
-programmes:
+These xml files contain data on DHSC's Official Development Assistance (ODA) spend for the following programmes:
 
 -   Framework Convention on Tobacco Control
 
@@ -13,7 +12,7 @@ programmes:
 These files are updated monthly, apart from Global Health Research which
 is updated quarterly.
 
-Publishing this open data fulfills our commitment to the International
+Publishing this open data fulfils our commitment to the International
 Aid Transparency Initiative (IATI). More information about IATI can be
 found at [International Aid Transparency Initiative -
 iatistandard.org](https://iatistandard.org/en/).
